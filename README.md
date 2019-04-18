@@ -6,12 +6,11 @@ This small app creates a simple one target per page gridset with your desired im
 
 ## How does it work
 
-It only works on gridsets with a single image on each page. So it looks for the image on the page and replaces it with the results from a google search. 
+It only works on gridsets with a single image on each page. So it looks for the image on the page and replaces it with the results from a google search. It then replaces the single image in the page n win/ directory for each page. Simples! 
 
 ## I want to modify the gridsets. What do I need to know?
 
 This script is very basic. It simply looks for pages that are labelled "Something n" and "Something n win" where n = a number. Dont change the syntax of "win" or add any more spaces. You can add more pages and add sounds etc - but it has to be this structure. 
-
 
 ## Future plans / to-do
 
@@ -32,4 +31,4 @@ Why don't you [consider hiring us](https://acecentre.org.uk/services/engineering
 
 ## How do I know this isn't doing anything malicious? I want to develop this myself 
 
-For full source code please see it [here](https://gist.github.com/willwade/26d6a51f339c4346fff6a39fde039cd6)
+For full source code please see it [here](https://github.com/acecentre/GridWiz)
