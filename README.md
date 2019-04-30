@@ -1,5 +1,7 @@
 # GridWiz
 
+[![GridWiz Demo](https://video-to-markdown.netlify.com/.netlify/functions/image?url=https%3A%2F%2Fyoutu.be%2F25B4mrCk-18)](https://youtu.be/25B4mrCk-18 "GridWiz Demo")
+
 **By Ace Centre**
 
 This small app creates a simple one target per page gridset with your desired image search. Simply run it, selecting your gridset. The examples are "Original.gridset" (one target that gets smaller), OriginalFixed.gridset (one target that is the same size but moves around on a 6x6 grid) and OriginalMulti.gridset (3 activities - one in a row, one in a square and then the same as Original.gridset). Feel free to modify the gridsets if you so wish and re-run the application. Enter your search terms to find the motivating images for your individual, then press the "Start" button. When done it will create a new gridset in the same directory - named the same as your search term. Double click it and it will add it to your Grid 3 programme. 
