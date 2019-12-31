@@ -1,4 +1,0 @@
-PyQt5==5.12.1
-PyQt5.sip==4.19.15
-google_images_download==2.5.0
-click==7.0
